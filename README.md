@@ -1,20 +1,21 @@
 <div align="center">
-<img width="1080" height="360" alt="image" src="https://github.com/user-attachments/assets/7d34f72d-e41b-4398-95b8-90496fab7089" />
+<img width="735" height="413" alt="image" src="https://github.com/user-attachments/assets/46983901-742f-41c8-ab16-dab88c81d6ed" />
 </div>
 
 ### Paulo Henrique
+- Engenharia de Software - 1/8
 
-Olá! Me Chamo Paulo Henrique, sou estudante de **Engenharia de Software** e entusiasta de Cybersegurança.
+### Foco atual
+```cs
 
-```json
-{
-  "nome": "Paulo Henrique"
-  "funcao": "Acad. de Engenharia de Software"
-  "local": "Brasilia - DF"
-  "estudando": ["C", "C#", "Python", "Cybersegurança"]
-}
+| C: Entender memória, ponteiros e o que acontece por baixo
+| C#: Construir aplicações de verdade
+| Cibersegurança: Laboratórios, CTFs e Kali Linux
 ```
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,python"/>
+<img src="https://skillicons.dev/icons?i=c,cs,kali"/>
 </div>
+
+**Cursando agora:** Redes, Pensamento Computacional, Modelagem de Banco de Dados.
+
+
