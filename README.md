@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/85191757-6008-4584-bfc1-8930ff1c78ca" /> 
+<img width="1080" height="360" alt="image" src="https://github.com/user-attachments/assets/7d34f72d-e41b-4398-95b8-90496fab7089" />
 </div>
 
 ### Paulo Henrique
