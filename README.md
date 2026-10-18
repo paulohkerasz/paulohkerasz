@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/85191757-6008-4584-bfc1-8930ff1c78ca" /> 
+</div>
 
-<!--
-**paulohkerasz/paulohkerasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Paulo Henrique
 
-Here are some ideas to get you started:
+Olá! Me Chamo Paulo Henrique, sou estudante de **Engenharia de Software** e entusiasta de Cybersegurança.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "nome": "Paulo Henrique"
+  "funcao": "Acad. de Engenharia de Software"
+  "local": "Brasilia - DF"
+  "estudando": ["C", "C#", "Python", "Cybersegurança"]
+}
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cs,python"/>
+</div>
