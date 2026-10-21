@@ -1,40 +1,44 @@
 <div align="center">
 <img width="735" height="413" alt="image" src="https://github.com/user-attachments/assets/46983901-742f-41c8-ab16-dab88c81d6ed" />
 
-# Paulo Henrique
-
-**Estudante de Engenharia de Software • DEV**
-📍 Brasília - DF
-
-<img src="https://skillicons.dev/icons?i=c,cs,kali,github" />
+# Engenharia de Software • Cibersegurança
 
 </div>
 
 ---
 
-### Sobre mim
-Sou estudante de Engenharia de Software e tenho interesse na área de *Segurança da Informação*
+##  Sobre mim
 
-### Cursando agora
-- Redes de Computadores
-- Pensamento Computacional
-- Modelagem de Banco de Dados
+Me chamo **Paulo Henrique**, de Brasília - DF, cursando **Engenharia de Software** . Tenho interesse em **cibersegurança** e **desenvolvimento de apps**.
 
-### Estudando por conta própria
-- Linguagens: **C**, **C#** e **Python**
-- Linux e ferramentas de segurança (Kali)
-- Fundamentos de cibersegurança
+Estudo de forma prática, com projetos e desafios, buscando evoluir um pouco a cada semana.
 
-### Objetivos
-- Conseguir um estágio em desenvolvimento ou segurança
-- Publicar projetos e writeups aqui no GitHub
+-  Estudante de Engenharia de Software.
+-  Foco em cibersegurança e segurança da informação.
+-  Aprendendo com projetos práticos e CTFs.
+
+**Cursando agora:** Redes, Pensamento Computacional e Modelagem de Banco de Dados.
+
+---
+
+##  Tecnologias e Ferramentas
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cs,kali,github" />
+</div>
+
+---
+
+##  Estatísticas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paulohkerasz&show_icons=true&theme=dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=paulohkerasz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohkerasz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
 
 </div>
 
 ---
- **Contato:** www.linkedin.com/in/eng-phenrique
+
+📫 **Contato:** www.linkedin.com/in/eng-phenrique
 
