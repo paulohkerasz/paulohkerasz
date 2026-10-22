@@ -9,7 +9,7 @@
 
 ##  Sobre mim
 
-Me chamo **Paulo Henrique**, de Brasília - DF, cursando **Engenharia de Software** . Tenho interesse em **cibersegurança** e **desenvolvimento de apps**.
+Me chamo **Paulo Henrique**, de Brasília - DF, cursando **Engenharia de Software** . Tenho interesse em **Desenvolvimento FrontEnd** e **Cybersegurança**.
 
 Estudo de forma prática, com projetos e desafios, buscando evoluir um pouco a cada semana.
 
