@@ -1,11 +1,9 @@
 <div align="center">
-<img width="735" height="413" alt="image" src="https://github.com/user-attachments/assets/46983901-742f-41c8-ab16-dab88c81d6ed" />
+  <img width="735" height="413" alt="image" src="https://github.com/user-attachments/assets/46983901-742f-41c8-ab16-dab88c81d6ed" />
 
-# Engenharia de Software • Cibersegurança
+## Engenharia de Software • Cibersegurança
 
 </div>
-
----
 
 ##  Sobre mim
 
@@ -24,7 +22,7 @@ Estudo de forma prática, com projetos e desafios, buscando evoluir um pouco a c
 ##  Tecnologias e Ferramentas
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,kali,github" />
+  <img src="https://skillicons.dev/icons?i=c,cs,github" />
 </div>
 
 ---
@@ -33,8 +31,8 @@ Estudo de forma prática, com projetos e desafios, buscando evoluir um pouco a c
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=paulohkerasz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohkerasz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=paulohkerasz&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=paulohkerasz&hide_title=true&langs_count=4&hide_values=true&theme=midnight-purple" />
 
 </div>
 
