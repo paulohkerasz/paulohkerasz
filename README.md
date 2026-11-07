@@ -7,7 +7,7 @@
 
 ##  Sobre mim
 
-Me chamo **Paulo Henrique**, cursando **Engenharia de Software** . Tenho interesse em **Desenvolvimento FrontEnd** e **Cybersegurança**.
+Me chamo **Paulo Henrique**, cursando **Engenharia de Software** . Tenho interesse em **Cloud** e **Cibersegurança**.
 
 Estudo de forma prática, com projetos e desafios, buscando evoluir um pouco a cada semana.
 
